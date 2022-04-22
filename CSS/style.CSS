@@ -1,0 +1,26 @@
+body {
+  background-image: url('../Images/Background1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%
+}
+
+#LogoTittle {
+            font-family: Segoe Script;
+            font-size: 30px;
+            text-decoration: none;
+	}
+#age{
+	font-family: Forte;
+            font-size: 25px;
+            color: black 
+}
+#type{
+	font-family: Forte;
+            font-size: 25px;
+            color: black  
+
+}
+#info1{
+	top:-5em;
+}
